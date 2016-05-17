@@ -1,0 +1,2 @@
+/home/liuqin/Documents/openni_rgbdslam/build/src/CMakeFiles/main.dir
+/home/liuqin/Documents/openni_rgbdslam/build/src/CMakeFiles/slambase.dir
